@@ -1,0 +1,5 @@
+setup.py
+ngtoolstest.egg-info/PKG-INFO
+ngtoolstest.egg-info/SOURCES.txt
+ngtoolstest.egg-info/dependency_links.txt
+ngtoolstest.egg-info/top_level.txt
